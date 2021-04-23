@@ -5,4 +5,4 @@ Aplicación dirigida a los estudiantes o profesores del programa de Administraci
 - Angélica María Méndez Therán 
 
 #### Anexos:
-Se presenta un video que expone la propuesta del proyecto, asimismo, un formato que contiene las especificaciones del desarrollo de la aplicación.
+Se presenta un video que expone la propuesta del proyecto, asimismo, un formato que contiene las especificaciones para el desarrollo de la aplicación.
