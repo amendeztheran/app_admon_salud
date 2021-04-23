@@ -1,4 +1,4 @@
-# app_admon_salud
+# Aplicación administrativa en salud
 Aplicación dirigida a los estudiantes o profesores del programa de Administración en salud, el cual, el objetivo es que consulten las normativas correspondientes a los cursos observados durante la carrera en relación a la salud. Estará diseñado por secciones: cada curso con sus normas respectivas. 
 
 #### Autora: 
